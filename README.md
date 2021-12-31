@@ -92,7 +92,7 @@ the user is responsible.
         <a href="https://t.me/remasterplugin">Plugin Channel</a> |
     <br>
 </p>
-
+(w)
 ----
 <p align="center">
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
@@ -107,7 +107,7 @@ the user is responsible.
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
 > [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
-
+ G
 ## 🔎 What is WhatsAsena?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
 
@@ -117,14 +117,14 @@ the user is responsible.
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
-
+wpuserbot12
 ### Simple Method 
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dqanshi/WhatsAsenaDuplicated)
 
-> [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
+> [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 ### The Hard Method (Not Recommend)
 ```js
