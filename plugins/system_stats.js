@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
     Asena.addCommand({pattern: 'alive', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
-            await message.client.sendMessage(message.jid,'```Hy' AM . 🐺 mr devil !```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n*Telegram Group:* https://t.me/am_dq_fan\n*Telegram Channel:* https://t.me/am_dq_fan\n*Plugin Channel:* ' + Config.CHANNEL , MessageType.text);
+            await message.client.sendmessage(message.jid,'```hy' am . 🐺 mr devil !```\n\n*version:* ```'+config.version+'```\n*branch:* ```'+config.branch+'```\n*telegram group:* https://t.me/am_dq_fan\n*telegram channel:* https://t.me/am_dq_fan\n*plugin channel:* ' + config.channel ,MessageType.text);
         }
         else {
             var payload = Config.ALIVEMSG
@@ -56,7 +56,7 @@ else if (Config.WORKTYPE == 'public') {
     Asena.addCommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
-            await message.client.sendMessage(message.jid,'```Tanrı Türk\'ü Korusun. 🐺 Asena Hizmetinde!```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n*Telegram Group:* https://t.me/AsenaSupport\n*Telegram Channel:* https://t.me/asenaremaster\n*Plugin Channel:* ' + Config.CHANNEL , MessageType.text);
+            await message.client.sendMessage(message.jid,','```hy' am . 🐺 mr devil !```\n\n*version:* ```'+config.version+'```\n*branch:* ```'+config.branch+'```\n*telegram group:* https://t.me/am_dq_fan\n*telegram channel:* https://t.me/am_dq_fan\n*plugin channel:* ' + config.channel ,MessageType.text);
         }
         else {
             var payload = Config.ALIVEMSG
